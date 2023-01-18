@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mining &#8211; Berita Crypto &amp; Blockchain</title>
+	<atom:link href="./index.html?simply_static_page=74" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Berita dan informasi seputar crypto dan teknologi blockcen</description>
+	<lastBuildDate>Wed, 18 Jan 2023 05:59:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Hari Martin Luther King Jr.: Bagaimana Bitcoin Mewujudkan Impian (Opini)</title>
+		<link>./../../../hari-martin/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 04:33:14 +0000</pubDate>
+				<category><![CDATA[Mining]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=42</guid>
+
+					<description><![CDATA[Hampir enam puluh tahun setelah MLK memberikan pidato, crypto mewujudkan impian Dr. King. Itu membuat mimpi seperti substansial dan tersedia bagi kita dalam kode dan desain jaringan komputer. Seperti Lincoln Memorial Address MLK tahun 1963, Bitcoin bertujuan untuk menjadi &#8220;demonstrasi &#8230; <a href="./../../../hari-martin/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Hampir enam puluh tahun setelah MLK memberikan pidato, crypto mewujudkan impian Dr. King. Itu membuat mimpi seperti substansial dan tersedia bagi kita dalam kode dan desain jaringan komputer. Seperti Lincoln Memorial Address MLK tahun 1963, Bitcoin bertujuan untuk menjadi &#8220;demonstrasi terbesar untuk kebebasan&#8221; dalam sejarah bangsa.</p>
+<p>Masalah yang diidentifikasi MLK sebagai penyebab keluhan mereka adalah segregasi, diskriminasi, pencabutan hak, dan keterasingan. Ini terjadi pada orang Afrika-Amerika pada tahun 1963 pada peringatan seratus tahun Proklamasi Emansipasi yang mengakhiri perbudakan.</p>
+<p>Bitcoin ada untuk mengatasi masalah yang sama yang masih ada hingga saat ini di sistem keuangan global. Sangat menarik untuk bertanya-tanya apa yang akan dipikirkan MLK tentang teknologi tersebut jika dia masih hidup hari ini.</p>
+<p>Itu ada untuk menyelesaikan krisis yang tidak memiliki rekening bank. MLK mungkin tertarik untuk mengetahui berapa banyak orang Amerika yang tidak memiliki rekening bank saat ini yang telah menggunakan crypto.</p>
+<p>Itu ada untuk mengakhiri akses yang tidak merata atau sangat tidak memuaskan ke layanan pinjaman dan perbankan. Ini menawarkan jalan keluar dari mata uang fiat pemerintah yang korup dengan skema inflasi yang berbahaya dan diskriminasi berdasarkan jenis kelamin, ras, kelas, agama, kasta, dan afiliasi politik.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ethereum Memuncaki 500.000 Validator sebagai Staking Batas Waktu Penarikan</title>
+		<link>./../../../ethereum-memuncaki/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 04:03:27 +0000</pubDate>
+				<category><![CDATA[Mining]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=13</guid>
+
+					<description><![CDATA[Ethereum sekarang memiliki lebih dari 500.000 validator yang menjaga keamanan jaringan menjelang pemutakhiran Shanghai yang sangat dinantikan, yang dijadwalkan pada bulan Maret. Pembaruan akan memungkinkan validator tersebut untuk menarik ETH mereka dari kontrak staking Ethereum – beberapa di antaranya telah &#8230; <a href="./../../../ethereum-memuncaki/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Ethereum sekarang memiliki lebih dari 500.000 validator yang menjaga keamanan jaringan menjelang pemutakhiran Shanghai yang sangat dinantikan, yang dijadwalkan pada bulan Maret.</p>
+<p>Pembaruan akan memungkinkan validator tersebut untuk menarik ETH mereka dari kontrak staking Ethereum – beberapa di antaranya telah dikunci selama bertahun-tahun. Secara teoritis, mempertaruhkan ETH seseorang memungkinkan seseorang untuk secara efektif mendapatkan hasil dari kepemilikan mereka tanpa biaya – kecuali untuk biaya peluang dari di mana ETH itu bisa digunakan.</p>
+<p>Namun, opsi staking likuid yang disediakan oleh layanan staking seperti Lido dan RocketPool memungkinkan staker menerima sETH atau reTH sebagai imbalan atas aset staking mereka. Didukung oleh aset yang telah dikunci, masing-masing token ini dapat diperdagangkan secara bebas sebagai ekuivalen ETH, memberikan keuntungan kepada pemegangnya untuk mempertaruhkan tanpa mengorbankan likuiditas.</p>
+<p>Minggu lalu, ConsenSys mengumumkan bahwa MetaMask telah bermitra dengan Lido dan Rocketpool untuk memungkinkan pengguna mempertaruhkan setiap layanan dan menerima steTH dan reTH langsung di dalam aplikasi dompet.</p>
+<p>Pertukaran seperti Binance, Coinbase, dan Kraken juga menawarkan layanan staking dan memberikan token setara ETH mereka sendiri sebagai imbalan kepada pelanggan (mis. BETH di Binance). Layanan semacam itu memungkinkan pemegang ETH yang lebih kecil melewati penghalang 32 ETH yang diperlukan untuk mempertaruhkan independen, dengan imbalan biaya kecil yang dikumpulkan oleh penyedia.</p>
+<p>Beberapa ketakutan bahwa pembuat taruhan terpusat dapat memperoleh terlalu banyak kendali atas konsensus Ethereum dari waktu ke waktu, dan berpotensi berkonspirasi untuk mengkompromikan integritas jaringan. CEO Coinbase Brian Armstrong telah mengklaim bahwa jika pertukarannya diminta oleh regulator untuk melakukan sesuatu yang jahat, perusahaannya kemungkinan akan menutup layanan taruhannya.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
